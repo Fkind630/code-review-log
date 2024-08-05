@@ -1,2 +1,1 @@
-# code-review-log
-code-review-log
+# 代码审查结果日志
